@@ -1,0 +1,19 @@
+
+
+1. Apply a account in GitHub https://github.com/
+
+2. Send me your account of GitHub and join you as a collaborator of our project.
+
+3. You can visit our project in this link https://github.com/GabrielLIN/GroupProject . Please mind that since we have not pay any money, all items in of our project in GitHub can be visit by people in the Internet.
+¡¡¡¡
+4. Windows User:
+Download and install the latest version of Git in this link:
+http://git-scm.com/
+
+Download the install the GUI Client of Git in this link:
+https://code.google.com/p/tortoisegit/
+
+MAC User:
+
+
+
